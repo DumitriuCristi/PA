@@ -1,0 +1,9 @@
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\bin\Debug\Aplicatie_PA.exe.config
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\bin\Debug\Aplicatie_PA.exe
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\bin\Debug\Aplicatie_PA.pdb
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\obj\Debug\Aplicatie_PA.csprojResolveAssemblyReference.cache
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\obj\Debug\Aplicatie_PA.AppPa.resources
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\obj\Debug\Aplicatie_PA.Properties.Resources.resources
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\obj\Debug\Aplicatie_PA.csproj.GenerateResource.Cache
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\obj\Debug\Aplicatie_PA.exe
+C:\Users\dumit\Documents\Visual Studio 2017\Projects\Aplicatie_PA\Aplicatie_PA\obj\Debug\Aplicatie_PA.pdb
